@@ -1,0 +1,12 @@
+#root {
+  margin: 0 auto;
+  width: 960px;
+ }
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #fff;
+}

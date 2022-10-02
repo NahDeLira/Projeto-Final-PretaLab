@@ -1,0 +1,35 @@
+.sobre-titulo{
+    text-align: center; 
+    font-display: center;
+    color: #202020;
+   }
+
+   .section-contain {
+    width: 960px;
+    height: 50px;
+    background-color: rgb(165, 3, 33);
+    font-display: center;
+    margin-top: 0px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #261A1A;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+
+.sobre-para{
+    font-display: center;
+    text-align: justify;
+    color: #202020;
+    width: 800px;
+    margin-left: 70px;
+}
+
+.Sobre{
+    padding-bottom: 50px;
+    
+}

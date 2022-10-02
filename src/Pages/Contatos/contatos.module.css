@@ -1,0 +1,87 @@
+.contatos {
+    width:960px;
+    height: 380px;
+    background-color: #F29F05;
+    text-align: center;
+    margin-top: 0%;
+}
+
+.img {
+    width: 300px;
+}
+.h1 {
+    padding-bottom: 3px;
+    padding-top: 10px;
+}
+
+.h3 {
+    padding-top: 1px;
+}
+
+.formContainer {
+    width: 960px;
+    background-color: #D97904;
+    
+  }
+  
+  .form {
+    margin: 0 auto;
+    border-radius: 4px;
+    width: 960px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+  }
+  
+  .formInput {
+    width: 90%;
+    padding: 12px 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  
+  .formTextArea {
+    width: 90%;
+    padding: 12px 32px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  
+  .formButton {
+    background-color: #A60321;
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 1rem;
+    width: 97%;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    }
+  
+  .formButton:hover {
+    background-color: #ff1b44;
+  }

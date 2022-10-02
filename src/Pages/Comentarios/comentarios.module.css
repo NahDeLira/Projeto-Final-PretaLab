@@ -1,0 +1,88 @@
+.comentarios {
+    width:960px;
+    height: 320px;
+    background-color: #F24405;
+    text-align: center;
+}
+
+.img {
+    width: 300px;
+}
+.h1 {
+    padding-bottom: 3px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.h3 {
+    padding-top: 1px;
+}
+
+.inputcontainer {
+    width:960px;
+    height: 200px;
+    background-color:#261A1A;
+    text-align:justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    
+}
+
+
+
+.input {
+    background-color: #fff;
+    margin: 10px;
+  width: 800px;
+  height: 70px;
+  border-radius: 8px;
+  padding: 12px 24px;
+  
+}
+
+.button {
+    height: 50px;
+    width: 300px;
+    align-items: center;
+    background-color: #F24405;
+    border-radius: 8px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+    align-items: center;
+}
+
+.listItems {
+    list-style: none;
+    width: 93.5%;
+    padding: 2rem;
+    background-color: #fffbf9;
+  }
+  
+  .listItems > li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 0.7px solid #7e7d7d;
+    width: 60%;
+  }
+    
+  
+  .listItems li div p {
+    font-size: 1.3em;
+    color: #111;
+  }
+
+  .removeTask {
+    background:#A60321;
+    margin: 0.2rem;
+    border-radius: 8px;
+    border: 0;
+    padding: 5px;
+    color: #fff;
+  }

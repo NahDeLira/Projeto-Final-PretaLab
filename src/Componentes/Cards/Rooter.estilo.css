@@ -1,0 +1,11 @@
+.Header-contain1{
+    background-color: rgb(38, 26, 26);
+    font-size: 10pt;
+    justify-content: space-evenly;
+    display:inline-flex;
+    width: 960px;
+            
+    }
+    .Font-estilo1{
+        color: rgb(217, 121, 4);
+    }
