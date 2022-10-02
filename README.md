@@ -8,5 +8,7 @@ Um site de receitas com sunho afetivo no formato blog.
 
 Foram utilizados:
 ReactJs
+CSS
+JS
 Realtime Database by Google
 
